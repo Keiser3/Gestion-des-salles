@@ -1,0 +1,45 @@
+.index{
+    background-color: green;
+}
+
+.index img{
+    height:100px;
+    width: 50%;
+    position: relative;
+    left: 25%;
+    right: 25%;
+    margin-bottom: 0px;
+}
+#logo{
+   height: 50px;
+   width: 190px;
+}
+
+form{
+    border: 1px solid black;
+    padding: 20px;
+    margin: auto;
+    width: 80%;
+    height: 70%;
+    position: relative;
+    margin-top: 7%;
+    background-color: rgb(130, 224, 170);
+    border-radius: 10px;
+   
+}
+
+.form-select{
+    margin: 5px;
+}
+#card{
+    border: 1px solid black;
+    padding: 20px;
+    margin: auto;
+    width: 80%;
+    height: 70%;
+    position: relative;
+    margin-top: 7%;
+    background-color: rgb(130, 224, 170);
+    border-radius: 10px;
+    text-align: center;
+}
